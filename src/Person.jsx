@@ -20,4 +20,5 @@ const Person = ({ firstName, lastName }) => {
   );
 };
 
+
 export default Person;
